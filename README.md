@@ -146,7 +146,8 @@ valgrind --leak-check=full ./leak_test
 **Bước 4: Sửa lỗi**
 Sửa file `leak_test.c`, thêm `free(ptr);` ngay trước dòng `return 0;`.
 Biên dịch lại, chép lại sang BBB và chạy lại Valgrind.
-> **[Chèn hình ảnh 5: Màn hình BBB hiển thị "All heap blocks were freed -- no leaks are possible"]**
+> **[<img width="686" height="440" alt="image" src="https://github.com/user-attachments/assets/459552fd-dc76-4e2e-aa2e-3089aa086eac" />
+"]**
 
 ---
 
