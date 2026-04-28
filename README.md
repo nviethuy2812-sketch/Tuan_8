@@ -96,8 +96,7 @@ gdbserver :1234 ./gdb_test
 Mở Terminal trên Ubuntu:
 ```bash
 cd ~/debug_workspace
-~/buildroot-2024.02.1/output/host/bin/arm-buildroot-linux-gnueabihf-gdb ./gdb_test
-```
+gdb-multiarch ./gdb_test```
 Trong dấu nhắc `(gdb)`, gõ các lệnh điều khiển:
 ```text
 (gdb) target remote 192.168.7.2:1234
