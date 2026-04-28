@@ -185,7 +185,8 @@ Trên BBB gõ:
 ./crash_test
 ls -l core*
 ```
-> **[Chèn hình ảnh 6: Chương trình văng lỗi "Segmentation fault (core dumped)" và sinh ra file 'core']**
+> **[<img width="576" height="219" alt="image" src="https://github.com/user-attachments/assets/9fcf2f4b-ec92-452d-969c-3b84cdb1d2ae" />
+]**
 
 **Bước 4: Đọc file Core bằng GDB**
 Trên BBB gõ:
