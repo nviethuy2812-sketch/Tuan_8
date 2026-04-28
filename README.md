@@ -89,7 +89,8 @@ Cắm thẻ nhớ, khởi động BBB, đăng nhập root và chạy:
 cd /root
 gdbserver :1234 ./gdb_test
 ```
-> **[Chèn hình ảnh 2: Cửa sổ Terminal BBB hiển thị dòng chữ Listening on port 1234]**
+> **[<img width="632" height="407" alt="image" src="https://github.com/user-attachments/assets/46a85a94-7c0e-4af1-9eda-704b47b61ddc" />
+]**
 
 **Bước 4: Kết nối và điều khiển từ Host (Ubuntu)**
 Mở Terminal trên Ubuntu:
