@@ -140,7 +140,8 @@ int main() {
 ```bash
 valgrind --leak-check=full ./leak_test
 ```
-> **[Chèn hình ảnh 4: Màn hình BBB báo lỗi "definitely lost: 100 bytes in 1 blocks" của Valgrind]**
+> **[<img width="834" height="615" alt="image" src="https://github.com/user-attachments/assets/56d3fa94-b301-42ae-98d3-7855aac9faea" />
+]**
 
 **Bước 4: Sửa lỗi**
 Sửa file `leak_test.c`, thêm `free(ptr);` ngay trước dòng `return 0;`.
