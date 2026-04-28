@@ -42,7 +42,7 @@ sync
 ```
 *Rút thẻ SD, cắm vào BeagleBone Black và khởi động lại.*
 
-> **[Chèn hình ảnh 1: Màn hình giao diện menuconfig đang tích chọn các công cụ gdb, valgrind...]**
+> <img width="882" height="427" alt="image" src="https://github.com/user-attachments/assets/4e524bec-404b-474c-8c2e-68c0f386778f" />
 
 ---
 
