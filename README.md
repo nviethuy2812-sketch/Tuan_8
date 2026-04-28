@@ -108,7 +108,8 @@ Trong dấu nhắc `(gdb)`, gõ các lệnh điều khiển:
 (gdb) set var sum = 100   # Ép giá trị biến sum thành 100
 (gdb) info registers      # Xem trạng thái thanh ghi
 ```
-> **[Chèn hình ảnh 3: Cửa sổ GDB trên Ubuntu thực thi các lệnh b, n, p, set var, info registers]**
+> **[<img width="830" height="888" alt="image" src="https://github.com/user-attachments/assets/81bd18e8-d541-4fa5-8315-ebd377c02e12" />
+]**
 
 ---
 
