@@ -283,4 +283,5 @@ Trên BBB gõ:
 ```bash
 ltrace ./trace_test
 ```
-> **[Chèn hình ảnh 11: ltrace hiển thị các hàm gọi thư viện C như puts, sleep, fopen, fprintf, fclose]**
+> **[<img width="575" height="243" alt="image" src="https://github.com/user-attachments/assets/dade9959-2f76-4ed4-9a10-7176fd496521" />
+]**
