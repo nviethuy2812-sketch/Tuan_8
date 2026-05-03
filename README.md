@@ -240,7 +240,8 @@ Xem lại báo cáo:
 ```bash
 perf report
 ```
-> **[Chèn hình ảnh 9: Màn hình giao diện perf report đánh giá % CPU của hàm main]**
+> **[<img width="727" height="583" alt="image" src="https://github.com/user-attachments/assets/a5a5df41-423f-46f6-b709-3c62e08d6de3" />
+]**
 
 ---
 
