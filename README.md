@@ -275,7 +275,8 @@ Trên BBB gõ:
 ```bash
 strace ./trace_test
 ```
-> **[Chèn hình ảnh 10: strace hiển thị các lệnh giao tiếp nhân như write, nanosleep, openat, close]**
+> **[<img width="819" height="776" alt="image" src="https://github.com/user-attachments/assets/242ef7fd-addb-46f6-8801-5cf8bb5c2b93" />
+]**
 
 **Bước 3: Dùng ltrace giám sát Library Calls**
 Trên BBB gõ:
