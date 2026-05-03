@@ -228,7 +228,8 @@ Trên BBB:
 ```bash
 perf stat ./perf_test
 ```
-> **[Chèn hình ảnh 8: Màn hình trả về các chỉ số CPU cycles, instructions, context switches của perf stat]**
+> **[<img width="799" height="406" alt="image" src="https://github.com/user-attachments/assets/4cdd53f4-28cf-463d-81f2-6e5941f3d48b" />
+]**
 
 **Bước 3: Record và Report**
 Trên BBB, ghi lại quá trình chạy:
