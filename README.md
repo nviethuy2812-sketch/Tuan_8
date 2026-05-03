@@ -194,7 +194,8 @@ Trên BBB gõ:
 gdb ./crash_test core
 ```
 Trong GDB, gõ lệnh truy vết `bt` (backtrace) để xem dòng code gây lỗi.
-> **[Chèn hình ảnh 7: Kết quả GDB backtrace chỉ rõ nguyên nhân crash nằm ở dòng *ptr = 42 trong hàm cause_crash]**
+> **[<img width="808" height="283" alt="image" src="https://github.com/user-attachments/assets/cd3e66f5-1962-4e41-8013-a242b0b7934e" />
+]**
 
 ---
 
